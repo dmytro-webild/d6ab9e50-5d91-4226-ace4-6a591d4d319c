@@ -48,8 +48,8 @@ export default function LandingPage() {
       description="Expert coaching for competitive exams with proven results. Learn from experienced faculty using proven methodologies tailored to your goals."
       tag="Trusted Coaching Partner"
       mediaItems={[
-        { imageSrc: "http://img.b2bpic.net/free-photo/old-people-asking-professional-advice-from-financial-expert_482257-107450.jpg", imageAlt: "coaching centre classroom professional" },
-        { imageSrc: "http://img.b2bpic.net/free-photo/side-view-teacher-writing_23-2148635321.jpg", imageAlt: "teacher coaching whiteboard student" }
+        { imageSrc: "http://img.b2bpic.net/free-photo/old-people-asking-professional-advice-from-financial-expert_482257-107450.jpg?_wi=1", imageAlt: "coaching centre classroom professional" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/side-view-teacher-writing_23-2148635321.jpg?_wi=1", imageAlt: "teacher coaching whiteboard student" }
       ]}
       mediaAnimation="blur-reveal"
       rating={5}
@@ -83,8 +83,8 @@ export default function LandingPage() {
       gridVariant="three-columns-all-equal-width"
       useInvertedBackground={false}
       products={[
-        { id: "p1", name: "JEE Advanced Prep", price: "₹15,000", imageSrc: "http://img.b2bpic.net/free-photo/innovation-development-rocket-graphic-concept_53876-120019.jpg" },
-        { id: "p2", name: "NEET Entrance Batch", price: "₹14,500", imageSrc: "http://img.b2bpic.net/free-photo/closeup-with-group-colored-pencils-selected-focus-red_1150-19819.jpg" },
+        { id: "p1", name: "JEE Advanced Prep", price: "₹15,000", imageSrc: "http://img.b2bpic.net/free-photo/innovation-development-rocket-graphic-concept_53876-120019.jpg?_wi=1" },
+        { id: "p2", name: "NEET Entrance Batch", price: "₹14,500", imageSrc: "http://img.b2bpic.net/free-photo/closeup-with-group-colored-pencils-selected-focus-red_1150-19819.jpg?_wi=1" },
         { id: "p3", name: "UPSC Foundation", price: "₹20,000", imageSrc: "http://img.b2bpic.net/free-photo/woman-blue-t-shirt-drawing-graph-with-marker-flipchart-against-wallpaper_23-2147847549.jpg" },
         { id: "p4", name: "Class 12th Board Science", price: "₹10,000", imageSrc: "http://img.b2bpic.net/free-photo/front-view-floating-books-connected-by-ladders-education-day_23-2149241039.jpg" },
         { id: "p5", name: "Class 10th Foundation", price: "₹8,000", imageSrc: "http://img.b2bpic.net/free-photo/paper-craft-art-business-chart_53876-89434.jpg" },
@@ -122,7 +122,7 @@ export default function LandingPage() {
         {
           id: "g1",          groupTitle: "Academic Leaders",          members: [
             {
-              id: "tm1",              title: "Dr. A. Sharma",              subtitle: "Senior Physics Mentor",              detail: "20 years of teaching expertise in JEE Physics.",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-businessman-library_1262-2398.jpg"},
+              id: "tm1",              title: "Dr. A. Sharma",              subtitle: "Senior Physics Mentor",              detail: "20 years of teaching expertise in JEE Physics.",              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-businessman-library_1262-2398.jpg?_wi=1"},
             {
               id: "tm2",              title: "Mr. R. Gupta",              subtitle: "Maths Specialist",              detail: "Renowned for simplifying complex calculus.",              imageSrc: "http://img.b2bpic.net/free-photo/closeup-senior-lecturer-with-arms-crossed_1262-1753.jpg"},
             {
@@ -140,11 +140,11 @@ export default function LandingPage() {
       textboxLayout="split"
       useInvertedBackground={true}
       testimonials={[
-        { id: "t1", name: "Aryan R.", date: "Jan 2024", title: "JEE Aspirant", quote: "Gyan Ganga made learning physics easier than ever.", tag: "JEE-2024", avatarSrc: "http://img.b2bpic.net/free-photo/content-stylish-student-posing-table_23-2147666655.jpg", imageSrc: "http://img.b2bpic.net/free-photo/old-people-asking-professional-advice-from-financial-expert_482257-107450.jpg", imageAlt: "successful student portrait study" },
-        { id: "t2", name: "Meera S.", date: "Feb 2024", title: "NEET Batch", quote: "The study material is excellent and well-structured.", tag: "NEET-2024", avatarSrc: "http://img.b2bpic.net/free-photo/cheerful-teenager-writing-notebook-looking-camera_23-2147860688.jpg", imageSrc: "http://img.b2bpic.net/free-photo/side-view-teacher-writing_23-2148635321.jpg", imageAlt: "successful student portrait study" },
-        { id: "t3", name: "Rahul V.", date: "Mar 2024", title: "UPSC Student", quote: "Faculty mentorship guided me through the entire syllabus.", tag: "UPSC", avatarSrc: "http://img.b2bpic.net/free-photo/enthusiastic-young-woman-glasses-teacher-celebrating-raising-hand-up-cheering-tirumphing-with_1258-197338.jpg", imageSrc: "http://img.b2bpic.net/free-photo/innovation-development-rocket-graphic-concept_53876-120019.jpg", imageAlt: "successful student portrait study" },
-        { id: "t4", name: "Priya K.", date: "Apr 2024", title: "Board Topper", quote: "Best coaching for consistency and practice.", tag: "Class 12", avatarSrc: "http://img.b2bpic.net/free-photo/girl-with-book-striped-shirt_1150-23.jpg", imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-businessman-library_1262-2398.jpg", imageAlt: "successful student portrait study" },
-        { id: "t5", name: "Kabir P.", date: "May 2024", title: "JEE Aspirant", quote: "Structured learning led to my success.", tag: "JEE-2024", avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-laughing-study-session_23-2149265696.jpg", imageSrc: "http://img.b2bpic.net/free-photo/closeup-with-group-colored-pencils-selected-focus-red_1150-19819.jpg", imageAlt: "successful student portrait study" },
+        { id: "t1", name: "Aryan R.", date: "Jan 2024", title: "JEE Aspirant", quote: "Gyan Ganga made learning physics easier than ever.", tag: "JEE-2024", avatarSrc: "http://img.b2bpic.net/free-photo/content-stylish-student-posing-table_23-2147666655.jpg", imageSrc: "http://img.b2bpic.net/free-photo/old-people-asking-professional-advice-from-financial-expert_482257-107450.jpg?_wi=2", imageAlt: "successful student portrait study" },
+        { id: "t2", name: "Meera S.", date: "Feb 2024", title: "NEET Batch", quote: "The study material is excellent and well-structured.", tag: "NEET-2024", avatarSrc: "http://img.b2bpic.net/free-photo/cheerful-teenager-writing-notebook-looking-camera_23-2147860688.jpg", imageSrc: "http://img.b2bpic.net/free-photo/side-view-teacher-writing_23-2148635321.jpg?_wi=2", imageAlt: "successful student portrait study" },
+        { id: "t3", name: "Rahul V.", date: "Mar 2024", title: "UPSC Student", quote: "Faculty mentorship guided me through the entire syllabus.", tag: "UPSC", avatarSrc: "http://img.b2bpic.net/free-photo/enthusiastic-young-woman-glasses-teacher-celebrating-raising-hand-up-cheering-tirumphing-with_1258-197338.jpg", imageSrc: "http://img.b2bpic.net/free-photo/innovation-development-rocket-graphic-concept_53876-120019.jpg?_wi=2", imageAlt: "successful student portrait study" },
+        { id: "t4", name: "Priya K.", date: "Apr 2024", title: "Board Topper", quote: "Best coaching for consistency and practice.", tag: "Class 12", avatarSrc: "http://img.b2bpic.net/free-photo/girl-with-book-striped-shirt_1150-23.jpg", imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-businessman-library_1262-2398.jpg?_wi=2", imageAlt: "successful student portrait study" },
+        { id: "t5", name: "Kabir P.", date: "May 2024", title: "JEE Aspirant", quote: "Structured learning led to my success.", tag: "JEE-2024", avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-laughing-study-session_23-2149265696.jpg", imageSrc: "http://img.b2bpic.net/free-photo/closeup-with-group-colored-pencils-selected-focus-red_1150-19819.jpg?_wi=2", imageAlt: "successful student portrait study" },
       ]}
       title="Student Success Stories"
       description="Real results from our motivated students."
