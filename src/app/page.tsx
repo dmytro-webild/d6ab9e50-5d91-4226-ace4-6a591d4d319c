@@ -63,11 +63,11 @@ export default function LandingPage() {
       tag="Trusted Coaching Partner"
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/old-people-asking-professional-advice-from-financial-expert_482257-107450.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/old-people-asking-professional-advice-from-financial-expert_482257-107450.jpg?_wi=1",
           imageAlt: "coaching centre classroom professional",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-teacher-writing_23-2148635321.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-teacher-writing_23-2148635321.jpg?_wi=1",
           imageAlt: "teacher coaching whiteboard student",
         },
         {
@@ -129,13 +129,13 @@ export default function LandingPage() {
           id: "p1",
           name: "JEE Advanced Prep",
           price: "₹15,000",
-          imageSrc: "http://img.b2bpic.net/free-photo/innovation-development-rocket-graphic-concept_53876-120019.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/innovation-development-rocket-graphic-concept_53876-120019.jpg?_wi=1",
         },
         {
           id: "p2",
           name: "NEET Entrance Batch",
           price: "₹14,500",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-with-group-colored-pencils-selected-focus-red_1150-19819.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-with-group-colored-pencils-selected-focus-red_1150-19819.jpg?_wi=1",
         },
         {
           id: "p3",
@@ -220,7 +220,7 @@ export default function LandingPage() {
               title: "Dr. A. Sharma",
               subtitle: "Senior Physics Mentor",
               detail: "20 years of teaching expertise in JEE Physics.",
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-businessman-library_1262-2398.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-businessman-library_1262-2398.jpg?_wi=1",
             },
             {
               id: "tm2",
@@ -237,7 +237,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/front-view-business-woman-posing_23-2149457736.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/old-people-asking-professional-advice-from-financial-expert_482257-107450.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/old-people-asking-professional-advice-from-financial-expert_482257-107450.jpg?_wi=2",
           imageAlt: "professor teacher professional portrait",
         },
       ]}
@@ -259,7 +259,7 @@ export default function LandingPage() {
           quote: "Gyan Ganga made learning physics easier than ever.",
           tag: "JEE-2024",
           avatarSrc: "http://img.b2bpic.net/free-photo/content-stylish-student-posing-table_23-2147666655.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/old-people-asking-professional-advice-from-financial-expert_482257-107450.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/old-people-asking-professional-advice-from-financial-expert_482257-107450.jpg?_wi=3",
           imageAlt: "successful student portrait study",
         },
         {
@@ -270,7 +270,7 @@ export default function LandingPage() {
           quote: "The study material is excellent and well-structured.",
           tag: "NEET-2024",
           avatarSrc: "http://img.b2bpic.net/free-photo/cheerful-teenager-writing-notebook-looking-camera_23-2147860688.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-teacher-writing_23-2148635321.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-teacher-writing_23-2148635321.jpg?_wi=2",
           imageAlt: "successful student portrait study",
         },
         {
@@ -281,7 +281,7 @@ export default function LandingPage() {
           quote: "Faculty mentorship guided me through the entire syllabus.",
           tag: "UPSC",
           avatarSrc: "http://img.b2bpic.net/free-photo/enthusiastic-young-woman-glasses-teacher-celebrating-raising-hand-up-cheering-tirumphing-with_1258-197338.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/innovation-development-rocket-graphic-concept_53876-120019.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/innovation-development-rocket-graphic-concept_53876-120019.jpg?_wi=2",
           imageAlt: "successful student portrait study",
         },
         {
@@ -292,7 +292,7 @@ export default function LandingPage() {
           quote: "Best coaching for consistency and practice.",
           tag: "Class 12",
           avatarSrc: "http://img.b2bpic.net/free-photo/girl-with-book-striped-shirt_1150-23.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-businessman-library_1262-2398.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-senior-businessman-library_1262-2398.jpg?_wi=2",
           imageAlt: "successful student portrait study",
         },
         {
@@ -303,7 +303,7 @@ export default function LandingPage() {
           quote: "Structured learning led to my success.",
           tag: "JEE-2024",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-laughing-study-session_23-2149265696.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-with-group-colored-pencils-selected-focus-red_1150-19819.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-with-group-colored-pencils-selected-focus-red_1150-19819.jpg?_wi=2",
           imageAlt: "successful student portrait study",
         },
       ]}
